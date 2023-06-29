@@ -9,7 +9,7 @@ This project demonstrates different state management techniques in Flutter, show
 
 The app just generates a random number between a minimum and maximum value that can change dynamically.
 
-<img src="/assets/selector_page.png"  width="200" height="300">  ![](/assets/min_max_input.png)  ![](/assets/random_number.png)
+<img src="/assets/selector_page.png"  width="2500" height="400"> <img src="/assets/min_max_input.png"  width="2500" height="400">  <img src="/assets/random_number.png"  width="2500" height="400"> 
 
 Stateful Widgets:
 The Stateful Widgets approach is one of the basic state management techniques in Flutter. It involves creating a StatefulWidget class and managing state within the class. In this project, you can find an example of a counter app implemented using Stateful Widgets.
