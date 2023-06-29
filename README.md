@@ -8,8 +8,8 @@ Description:
 This project demonstrates different state management techniques in Flutter, showcasing how to manage state in a Flutter application using various approaches such as Stateful Widgets, Flutter Hooks, Change Notifier with Stateful Widget,Change Notifier with Provider, Riverpod, and GetX.
 
 The app just generates a random number between a minimum and maximum value that can change dynamically.
-  
-![](/assets/selector_page.png.png)  ![](/assets/min_max_input.png)  ![](/assets/random_number.png)
+
+<img src="/assets/selector_page.png"  width="600" height="300">  ![](/assets/min_max_input.png)  ![](/assets/random_number.png)
 
 Stateful Widgets:
 The Stateful Widgets approach is one of the basic state management techniques in Flutter. It involves creating a StatefulWidget class and managing state within the class. In this project, you can find an example of a counter app implemented using Stateful Widgets.
